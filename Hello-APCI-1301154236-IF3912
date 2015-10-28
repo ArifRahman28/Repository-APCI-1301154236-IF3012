@@ -1,0 +1,6 @@
+ Program Hello;
+  Uses Crt;
+  Begin
+  ClrScr;
+  writeln(‘Hello World’); //untuk mengeluarkan string ‘Hello World’ di layar
+  End
